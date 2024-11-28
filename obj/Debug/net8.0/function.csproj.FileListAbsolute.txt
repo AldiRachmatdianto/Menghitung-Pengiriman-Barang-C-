@@ -1,0 +1,14 @@
+D:\Users\User\Documents\projects-web\function\bin\Debug\net8.0\function.exe
+D:\Users\User\Documents\projects-web\function\bin\Debug\net8.0\function.deps.json
+D:\Users\User\Documents\projects-web\function\bin\Debug\net8.0\function.runtimeconfig.json
+D:\Users\User\Documents\projects-web\function\bin\Debug\net8.0\function.dll
+D:\Users\User\Documents\projects-web\function\bin\Debug\net8.0\function.pdb
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.dll
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\refint\function.dll
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.pdb
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\function.genruntimeconfig.cache
+D:\Users\User\Documents\projects-web\function\obj\Debug\net8.0\ref\function.dll
